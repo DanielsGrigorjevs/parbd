@@ -25,4 +25,10 @@ created_at | TIMESTAMP
 updated_at | TIMESTAMP
 
 
+# Praktika:
+	Izveido Laravel projektu ar modeli un migrāciju priekš kursiem. Kurss sastāvēs no - nosaukuma, paskaidrojošā teksta, banera adreses un kursa cilvēku skaita. Ir jābūt divām API adresēm (galapunktiem): 
+    1. Store - pievieno jaunu kursu datu bāzē + ienākošo datu validācija,
+    2. Index - atgriež visus kursus.
 
+# Kad esi pabeidzis:
+	Izveido publisku github repozitoriju, uz kura uzliec visu savu Laravel projektu ar README.md failu. Aizpildi Google form: https://forms.gle/BnBnDQ1czLxqrZ6eA
